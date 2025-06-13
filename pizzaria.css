@@ -21,7 +21,7 @@ header h1 {
     font-size: 3em;
     letter-spacing: 3px;
     margin: 0;
-    text-shadow: 2px 2px 0 #e2b96c, 4px 4px 0 #b53a1c;
+    text-shadow: 2px 2px 0 #5e2003, 4px 4px 0 #b53a1c;
 }
 
 .menu {
@@ -47,8 +47,8 @@ header h1 {
 }
 
 .menu button:hover {
-    background: #e2b96c;
-    color: #b53a1c;
+    background: rgb(160, 24, 24);
+    color: #ffffff;
     transform: scale(1.05);
 }
 
